@@ -1,0 +1,3 @@
+Premium calculation is performed in PremiumCalculator class with method calculate(Policy policy).
+All the numbers are rounded to 2 digits after pointer half up (this should be clarified with a system analyst). 
+Risk type values are used as enums to easily extend implementation with new risk types.
